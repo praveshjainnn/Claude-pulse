@@ -1,4 +1,4 @@
-﻿(() => {
+(() => {
 	'use strict';
 
 	const CC = (globalThis.ClaudePulse = globalThis.ClaudePulse || {});
@@ -16,8 +16,8 @@
 	});
 
 	CC.COLORS = Object.freeze({
-		PROGRESS_FILL_DARK: '#2c84db',
-		PROGRESS_FILL_LIGHT: '#5aa6ff',
+		PROGRESS_FILL_DARK: '#e03535',
+		PROGRESS_FILL_LIGHT: '#f05252',
 		PROGRESS_OUTLINE_DARK: '#787877',
 		PROGRESS_OUTLINE_LIGHT: '#bfbfbf',
 		PROGRESS_MARKER_DARK: '#ffffff',
