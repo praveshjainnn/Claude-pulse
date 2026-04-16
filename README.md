@@ -17,6 +17,8 @@ A minimal browser extension that shows **token count**, **cache timer**, and **s
 1. Download [`claude-pulse-1.0.0.zip`](../../releases/download/v1.0.0/claude-pulse-1.0.0.zip)
 2. Go to `chrome://extensions` and enable **Developer mode** (top-right toggle)
 3. Drag and drop the zip onto the page
+(Incase of any error try turning Developer mode on in extension section)
+
 
 ### Firefox
 
