@@ -1,4 +1,4 @@
-﻿(() => {
+(() => {
 	'use strict';
 
 	const CC_MARKER = 'ClaudePulse';

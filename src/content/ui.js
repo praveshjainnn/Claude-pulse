@@ -1,4 +1,4 @@
-﻿(() => {
+(() => {
 	'use strict';
 
 	const CC = (globalThis.ClaudePulse = globalThis.ClaudePulse || {});
