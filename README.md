@@ -2,6 +2,9 @@
 
 A minimal browser extension that shows **token count**, **cache timer**, and **session/weekly usage bars** directly inside [claude.ai](https://claude.ai)'s input box — no floating widgets, no popups.
 
+Youtube Tutorial -  https://www.youtube.com/watch?v=X8uF2TkZd4A
+
+
 ![screenshot](screenshot.png)
 
 ## Features
